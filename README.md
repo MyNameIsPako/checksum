@@ -1,5 +1,7 @@
- # Checksum para Fortnite
+# 🔍 Checksum para Fortnite  
 
- Calcula el checksum de un ticket en base a su payload y signature, no voy a poner para que es si sabes para que funciona esto pues no hay mas que decir.
+Este script calcula el checksum de un ticket en base a su payload y signature. No entraré en detalles sobre su propósito; si sabes para qué sirve, no necesitas más explicaciones.  
 
-> Esto es con fines educativos y no me hago responsable de ningun mal uso.
+📌 **Soporte:** Para cualquier duda, puedes contactarme en [discord.gg/miabot](https://discord.gg/miabot).  
+
+> ⚠ **Aviso:** Esto es solo con fines educativos. No me hago responsable del mal uso que se le pueda dar.  
